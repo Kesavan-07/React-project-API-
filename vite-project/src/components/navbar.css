@@ -1,0 +1,14 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #282c34;
+  color: white;
+}
+
+.cart-button {
+  background-color: #61dafb;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
